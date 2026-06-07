@@ -64,7 +64,7 @@ ruoyi-vue-pro
 
 ## 🚀 快速启动
 
-`ash
+`ash
 # 1. 克隆项目
 git clone https://github.com/Guan-Xing-Zhe/ruoyi-vue-pro.git
 
